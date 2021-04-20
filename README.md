@@ -1,7 +1,6 @@
 # Hello! My Name is [Ayush Bali](https://www.instagram.com/ayuusssshhhhhhh)😉
 
 ## I am a Student and I write code </>
-<br />
 
 # Something about me :grinning:
 
