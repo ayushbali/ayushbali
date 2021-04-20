@@ -1,4 +1,4 @@
-# **Hello! My Name is [Ayush Bali](https://www.instagram.com/ayuusssshhhhhhh)😉**
+# **Hello! My Name is Ayush Bali 😉**
 
 ## **Something about me :grinning:**
 ###  ```I am a Student and I write code </> ```
@@ -16,6 +16,7 @@
 [<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>]()
 [<img src="https://img.icons8.com/color/48/000000/python.png"/>]()
+[<img src="https://img.icons8.com/color/48/000000/markdown.png"/>]()
 
 ## _Tools_
 [<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>]()
