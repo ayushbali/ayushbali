@@ -1,7 +1,7 @@
 # **Hello! My Name is Ayush Bali 😉**
 
 ## **Something about me :grinning:**
-###  ```I am a Student and I write code </> ```
+### ```I am a Student and I write code </> ```
 - 🌱 **Currently Learning Everything! :laughing:**
 - ⚡ **I like Gaming :video_game: Reading :book: Singing :microphone: and I play guitar :guitar:**
 - 👉🏼 **I click pictures too 📷**
