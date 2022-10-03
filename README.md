@@ -8,6 +8,10 @@
 - ✨ **Fun Fact: Naruto is my Favourite anime**
 <hr>
 
+## _Badges_
+[![@ayushbali's Holopin board](https://holopin.io/api/user/board?user=ayushbali)](https://holopin.io/@ayushbali)
+
+
 ## _Languages_ 
 
 [<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>]()
