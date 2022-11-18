@@ -11,6 +11,7 @@
 ## _Badges_
 [![@ayushbali's Holopin board](https://holopin.io/api/user/board?user=ayushbali)](https://holopin.io/@ayushbali)
 
+[![@ayushbali's Holopin board](https://www.holopin.io/userbadge/clam75la8938708l63qdntwto)](https://holopin.io/@ayushbali)
 
 ## _Languages_ 
 
