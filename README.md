@@ -3,9 +3,8 @@
 ## **Something about me :grinning:**
 ### ```I am a Student and I write code </> ```
 - 🌱 **Currently Learning Everything! :laughing:**
-- ⚡ **I like Gaming :video_game: Reading :book: Singing :microphone: and I play guitar :guitar:**
-- 👉🏼 **I click pictures too 📷**
-- ✨ **Fun Fact: Naruto is my Favourite anime**
+- ⚡ **Hobbies: Gaming :video_game: Reading :book: Singing :microphone: Photography 📷**
+- ✨ **Fun Fact: well there's none**
 <hr>
 
 ## _Badges_
