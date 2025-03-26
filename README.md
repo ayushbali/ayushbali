@@ -31,7 +31,7 @@
 
 <hr>
 
-## **You Can Find Me On**
+## **Links**
 [<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>](https://www.linkedin.com/in/imayushbali/)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>](https://www.instagram.com/_ayushbali/)
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>](https://twitter.com/ayushbali06)
