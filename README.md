@@ -1,4 +1,4 @@
-# **Hello! My Name is Ayush Bali 😉**
+# **Hallo! Ich Bin Ayush :)**
 
 ## **Overview :grinning:**
 ### Dedicated Computer Science student at TU Darmstadt, leveraging 2+ years of development experience to create impactful software, web, and mobile applications.
